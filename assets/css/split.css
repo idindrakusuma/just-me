@@ -241,7 +241,7 @@ body.page-template-page-fullsingle-split {
 
 .img-responsive{
   max-width: 60%; }
-  @media (max-width: 500px) {
+  @media (max-width: 800px) {
       .img-responsive{
         max-width: 80%;
       }

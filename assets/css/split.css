@@ -240,9 +240,9 @@ body.page-template-page-fullsingle-split {
       color: #848d96; }
 
 .img-responsive{
-  max-width: 60%; }
+  width: 60%; }
   @media (max-width: 800px) {
       .img-responsive{
-        max-width: 80%;
+        width: 80%;
       }
-    }
+  }
